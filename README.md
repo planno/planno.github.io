@@ -1,2 +1,1 @@
 # planno.github.io
-Site
